@@ -1,0 +1,8 @@
+.link {
+  color: white;
+  /*cursor: pointer; и так везде поинтер*/
+}
+
+.link:hover {
+  opacity: .8;
+}
